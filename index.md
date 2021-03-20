@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/elopez515/ETL_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Fantasy Baseball League
 
 In this project we have an upcoming fantasy baseball draft. Unfortunately, for the past couple of years we have been coming up short in our pursuit of the championship. However, this year we plan on using our knowledge of web scraping and data integration to gain a competitive edge over our competition. We will gain an upper hand in this year's Fantasy Baseball League by building a database filled with player stats from Major League Baseball's (MLB).
@@ -67,11 +61,3 @@ We loaded our datafames to **Postgres** using **SQLAlchemy** to append the data 
 
     * py -W ignore [HitterScrape.py](HitterScrape.py)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elopez515/ETL_Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
